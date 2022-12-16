@@ -1,7 +1,7 @@
 # WarmUp №3. Disks
 ---
 ### Task:
-![The task](https://i.imgur.com/VcbB0QN.png)
+![The task](https://i.imgur.com/87mPukw.png)
 
 >The program calculates the lowest cost to buy n discs.
 
